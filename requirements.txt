@@ -1,0 +1,10 @@
+langchain
+openai
+pymongo
+beautifulsoup4
+selenium
+flask
+fastapi
+pydantic
+python-dotenv
+pandas
