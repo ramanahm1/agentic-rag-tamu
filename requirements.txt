@@ -8,3 +8,9 @@ fastapi
 pydantic
 python-dotenv
 pandas
+uvicorn
+transformers
+accelerate
+torch
+sentence-transformers
+langchain
